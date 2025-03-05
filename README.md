@@ -2,6 +2,9 @@
 
 Welcome to this small API that allows you to take screenshots of websites. It blocks cookie banners and uses a custom puppeteer configuration to avoid detection. It's made by [Henri](https://henri.is).
 
+
+https://github.com/user-attachments/assets/f781accf-c081-4a3f-a66d-6cc09c71520e
+
 ## Usage
 
 First install bun, after that clone the repository and install the dependencies:
